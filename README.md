@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Researcher
 -------------------------
 
-🐱‍🏍 I'm Learning about Red Teaming and Hardware Security🔐.<br>
-👨‍🎓 I'm Perusing my B.Tech in field of Artificial Intelligence and Data Science and I'm currently in 6th semester.
+🐱‍🏍 I'm Learning about **Red Teaming** and **Hardware Security🔐**.<br>
+👨‍🎓 I'm Perusing my **B.Tech** in field of **Artificial Intelligence and Data Science** and I'm currently in 6th semester.
 
 * ✉️  You can contact me at [bhagirathsuhagiya01@gmail.com](mailto:bhagirathsuhagiya01@gmail.com)
 * 🚀  I'm currently working on [AWS MONITORING TOOL](http://github.com/0x4248414749524/aws-monitoring-tool.git)
